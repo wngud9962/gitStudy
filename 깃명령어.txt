@@ -1,0 +1,17 @@
+- 연결된 원격 깃 주소 보는 명령어
+git remote -v
+
+- 원격 깃 연결방법
+git remote add (별칭) (원격 깃주소)
+ex) $ git remote add myorigin https://github.com/wngud9962/gitStudy.git
+
+- 깃에 대한 로컬정보 확인방법
+git config --local --list
+
+- 유저명, 이메일 등록
+git config --local user.name (실제 유저명)
+git config --local user.email (실제 유저메일)
+
+- 새로운 branch 만드는법
+git branch (새로운 브랜치명)
+
