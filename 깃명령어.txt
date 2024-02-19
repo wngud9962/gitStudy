@@ -20,6 +20,13 @@ git branch (새로운 브랜치명)
 
 git push (별칭) (내가 올릴 브랜치명) : (원격 브랜치명)
 
+- 과거 깃 로그기록 조회
+git log --all --graph
+
+- 로컬에서 작업할 브랜치 변경
+git checkout (작업할 브랜치명)
+
+
 
 
 
